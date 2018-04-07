@@ -11,5 +11,8 @@ http://www.haruvfx.com/blog/
 
 ### Text Link
 ```html
-1. [text](https://xxxxx)
+[text](https://xxxxx)
 ```
+
+### Image
+16:7

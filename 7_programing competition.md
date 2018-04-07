@@ -1,5 +1,7 @@
-It is a great way to improve your programing skills when learning to code by programing competition.
-This is a popular coding challenge websites.
+## Improve your skills
+It is a great way to improve your programing skills when learning to code by programing competition.  
+This is a popular coding challenge websites.  
+Let's try it to improve your skills.
 
 1. [TopCoder](https://www.topcoder.com/)
 2. [Coderbyte](https://coderbyte.com/)
@@ -11,7 +13,9 @@ This is a popular coding challenge websites.
 8. [Sphere Online Judge](http://www.spoj.com/)
 9. [CodingGame](https://www.codingame.com/)
 
-I am going to show you programing competition tips using Python.
+## Python Tips
+I am going to show you programing competition tips using Python.  
+This is really usefull python tips.
 
 * [Input](http://www.haruvfx.com/post/24)
 * [Strings](http://www.haruvfx.com/post/25)

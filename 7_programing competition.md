@@ -31,3 +31,4 @@ This is really usefull python tips.
 * [Decorator](http://www.haruvfx.com/post/35)
 * [Itertools](http://www.haruvfx.com/post/36)
 * [Regular Expression](http://www.haruvfx.com/post/37)
+* [Numpy](http://www.haruvfx.com/post/38)
